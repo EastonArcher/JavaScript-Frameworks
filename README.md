@@ -1,6 +1,6 @@
 ## Multi-Framework ToDo App Showcase
 
-This repository serves as a demonstration of a simple ToDo application implemented using distinct JavaScript frameworks. The project encompasses three separate implementations:
+This repository serves as a demonstration of a simple ToDo application implemented using JavaScript frameworks. The project currently encompasses three separate implementations:
 
 ## Vanilla App
 
@@ -8,11 +8,12 @@ This repository serves as a demonstration of a simple ToDo application implement
 
 ## React App
 
-* Within the react-app directory, the ToDo app is reimagined using React and its ecosystem. This implementation leverages React components, state management, and the virtual DOM to create an interactive user interface. It highlights the power and simplicity of building applications with React.
+* Within the react-app directory, the ToDo app is reimagined using React. This implementation leverages React components, state management, and the virtual DOM to create an interactive user interface. It highlights the power and simplicity of building applications with React.
 
 ## Angular App
 
 * The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
+* Run using ng serve and accessing the local host via http://localhost:3000 to interact with the ToDo app.
 
 ## Getting Started
 
