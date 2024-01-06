@@ -1,18 +1,18 @@
 ## Multi-Framework ToDo App Showcase
 
-* This repository serves as a demonstration of a simple ToDo application implemented using distinct JavaScript frameworks. The project encompasses three separate implementations:
+This repository serves as a demonstration of a simple ToDo application implemented using distinct JavaScript frameworks. The project encompasses three separate implementations:
 
 ## Vanilla App
 
-Located in the vanilla-app directory, this version showcases the fundamental principles of JavaScript development without relying on any external frameworks. It provides a clear representation of a minimalistic ToDo application, running on a live server.
+* Located in the vanilla-app directory, this version showcases the fundamental principles of JavaScript development without relying on any external frameworks. It provides a clear representation of a minimalistic ToDo application, running on a live server.
 
 ## React App
 
-Within the react-app directory, the ToDo app is reimagined using React and its ecosystem. This implementation leverages React components, state management, and the virtual DOM to create an interactive user interface. It highlights the power and simplicity of building applications with React.
+* Within the react-app directory, the ToDo app is reimagined using React and its ecosystem. This implementation leverages React components, state management, and the virtual DOM to create an interactive user interface. It highlights the power and simplicity of building applications with React.
 
 ## Angular App
 
-The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
+* The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
 
 ## Getting Started
 
