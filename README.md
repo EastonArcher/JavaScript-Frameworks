@@ -19,7 +19,9 @@ This repository serves as a demonstration of a simple ToDo application implement
 
 To run any of the applications locally, follow these steps:
 1. Clone the repository: git clone https://github.com/your-username/javascript-frameworks.git
-2. Navigate to the desired framework directory: cd vanilla-app or cd react-app or cd angular-app
-3. Install dependencies: npm install
-4. Run the app: npm start
-5. Open your browser and visit http://localhost:3000 to interact with the ToDo app.
+2. Move to the vanilla directory: cd vanilla-app
+3. Run the ToDo app via live server
+4. Navigate to the desired framework directory: cd react-app or cd angular-app
+5. Install dependencies: npm install
+6. Run the app: npm start
+7. Open your browser and visit the local host to interact with the ToDo app.
