@@ -15,7 +15,7 @@ This repository serves as a demonstration of a simple ToDo application implement
 * The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
 * Run using ng serve and accessing the local host via http://localhost:3000 to interact with the ToDo app.
 
-## Getting Started
+## ⚡ Getting Started
 
 To run any of the applications locally, follow these steps:
 1. Clone the repository: git clone https://github.com/your-username/javascript-frameworks.git
