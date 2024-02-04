@@ -20,4 +20,3 @@ To run any of the applications locally, follow these steps:
 5. Install dependencies: npm install
 6. Run the app: npm start
 7. Open your browser and visit the local host to interact with the ToDo app
-
