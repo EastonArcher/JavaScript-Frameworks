@@ -17,6 +17,6 @@ To run any of the applications locally, follow these steps:
 2. Move to the vanilla directory: cd vanilla-app
 3. Run the ToDo app via live server
 4. Navigate to the desired framework directory: cd react-app or cd angular-app
-5. Install dependencies: ```js npm install ```
-8. Run the app: ```js npm start ```
+5. Install dependencies: ``` npm install ```
+8. Run the app: ``` npm start ```
 9. Open your browser and visit the local host to interact with the application
