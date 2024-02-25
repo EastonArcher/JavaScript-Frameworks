@@ -20,3 +20,4 @@ To run any of the applications locally, follow these steps:
 5. Install dependencies: ``` npm install ```
 8. Run the app: ``` npm start ```
 9. Open your browser and visit the local host to interact with the application
+
