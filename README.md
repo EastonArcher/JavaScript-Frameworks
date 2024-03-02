@@ -1,7 +1,6 @@
 ## Multi-Framework ToDo App Showcase
 This repository serves as a demonstration of a simple ToDo application implemented using JavaScript frameworks. The project currently encompasses three separate implementations:
 
-
 ## Vanilla App
 * Located in the vanilla-app directory, this version showcases the fundamental principles of JavaScript development without relying on any external frameworks. It provides a clear representation of a minimalistic ToDo application, running on a live server.
 
