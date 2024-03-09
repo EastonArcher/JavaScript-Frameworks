@@ -22,3 +22,4 @@ To run any of the applications locally, follow these steps:
 9. Open your browser and visit the local host to interact with the application
 
 
+
