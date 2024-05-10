@@ -1,5 +1,5 @@
 ## Multi-Framework JavaScript To-do App
-This repository serves as a demonstration of a simple ToDo application implemented using various JavaScript frameworks. The project currently has three separate implementations:
+This repository serves as a demonstration of a simple To-do application implemented using various JavaScript frameworks. The project currently has three separate implementations:
 
 ## Vanilla App
 * Located in the vanilla-app directory, this version showcases the fundamental principles of JavaScript development without relying on any external frameworks. It provides a clear representation of a minimalistic ToDo application, running on a live server.
@@ -9,7 +9,7 @@ This repository serves as a demonstration of a simple ToDo application implement
 
 ## Angular App
 * The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
-* Run using ```ng serve``` and accessing the local host via http://localhost:3000 to interact with the ToDo app.
+* Run using ```ng serve``` and accessing the local host via http://localhost:3000 to interact with the To-do app.
 
 ## Getting Started
 To run any of the applications locally, follow these steps:
