@@ -8,7 +8,7 @@ This repository serves as a demonstration of a simple To-do application implemen
 * This implementation leverages React components, state management, and the virtual DOM to create an interactive user interface. It highlights the power and simplicity of building applications with React.
 
 ## Angular App
-* The angular-app directory contains the ToDo app built with the Angular framework. Angular provides a comprehensive structure for scalable and maintainable applications. This implementation showcases the use of Angular components, services, and data binding to enhance the ToDo application.
+* The angular-app directory contains the To-do app built with the Angular framework. This implementation showcases the use of Angular components, services, and data binding to enhance the To-do application.
 * Run using ```ng serve``` and accessing the local host via http://localhost:3000 to interact with the To-do app.
 
 ## Getting Started
